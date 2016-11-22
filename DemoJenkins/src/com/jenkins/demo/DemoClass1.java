@@ -7,7 +7,7 @@ public class DemoClass1 {
 	
 	@Test
 	public void jenkins() {
-		System.out.println("Welcome to Jenkinsdeo demo world");
+		System.out.println("Welcome Infostretch!!lets do Jenikins demo world");
 	}
 
 }
