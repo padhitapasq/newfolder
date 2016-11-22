@@ -1,0 +1,1 @@
+java -cp D:\projects\DemoJenkins\lib\*;D:\projects\DemoJenkins\bin org.testng.TestNG testng.xml
