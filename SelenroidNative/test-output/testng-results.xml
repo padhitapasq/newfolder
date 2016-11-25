@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="115902" started-at="2016-11-25T11:54:46Z" finished-at="2016-11-25T11:56:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="115902" started-at="2016-11-25T11:54:46Z" finished-at="2016-11-25T11:56:42Z">
+      <class name="com.selendroid.org.TestRunnerPage">
+        <test-method status="PASS" signature="setCapability()[pri:0, instance:com.selendroid.org.TestRunnerPage@5dfcfece]" name="setCapability" is-config="true" duration-ms="27458" started-at="2016-11-25T17:24:46Z" finished-at="2016-11-25T17:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setCapability -->
+        <test-method status="PASS" signature="doOperations()[pri:0, instance:com.selendroid.org.TestRunnerPage@5dfcfece]" name="doOperations" duration-ms="85569" started-at="2016-11-25T17:25:14Z" finished-at="2016-11-25T17:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doOperations -->
+        <test-method status="PASS" signature="quitApp()[pri:0, instance:com.selendroid.org.TestRunnerPage@5dfcfece]" name="quitApp" is-config="true" duration-ms="2841" started-at="2016-11-25T17:26:39Z" finished-at="2016-11-25T17:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitApp -->
+      </class> <!-- com.selendroid.org.TestRunnerPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
